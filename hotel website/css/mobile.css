@@ -1,0 +1,37 @@
+/* navbar */
+#navbar .logo,
+#navbar ul,
+#navbar ul li {
+   float: none;
+   text-align: center;
+}
+#navbar li a {
+   padding: 5px;
+}
+ /* main-info */
+ #main-info .main-image {
+   display: none;
+}
+.main-text {
+   float: none;
+   width: 100%;
+}
+.box {
+   width: 100%;
+   float: none;
+}
+/* about */
+.info-right,
+.info-left {
+   float: none;
+   width: 100%;
+}
+.info-left {
+   padding-bottom: 20px;
+}
+.info-left h1 {
+   text-align: center;
+}
+#contact-info .box {
+   border-bottom: 1px dotted #444;
+}
